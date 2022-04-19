@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning automated testing at [QA.GURU](https://qa.guru/)
+- 🌱 I’m currently learning automated testing 
 
 <!--
 **vkos15/vkos15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
